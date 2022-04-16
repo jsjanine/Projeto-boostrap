@@ -1,2 +1,4 @@
-# Projeto-boostrap
-Repositório sobre a aula de boostrap da Dio.me
+# Projeto Bootstrap
+Repositório utilizando boostrap da Dio.me
+
+
